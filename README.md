@@ -33,5 +33,5 @@ For me, technology is not only about writing code. It is about understanding the
 I'm open to opportunities involving **backend development, AI automation, systems integration, cloud infrastructure, and technical operations**.
 
 - 💼 **LinkedIn:** [Vinicius Betiol](https://www.linkedin.com/in/vinicius-betiol-980b56136)
-- 📧 **Email:** [vbbetiol@gmail.com](mailto:vbbetiol@gmail.com)
+- 📧 **Email:** [vinicius@ctcompunews.com.br](mailto:vinicius@ctcompunews.com.br)
 - 📍 **Location:** São Paulo, Brazil — available for remote opportunities
