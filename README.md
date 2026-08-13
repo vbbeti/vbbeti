@@ -14,11 +14,11 @@ What motivates me most is transforming fragmented processes, disconnected system
 
   What Drives Me
 
-I enjoy working at the intersection of **software, infrastructure, automation, and business operations.
+I enjoy working at the intersection of software, infrastructure, automation, and business operations.
 
 I am especially motivated by challenges where the solution is not immediately obvious: understanding an existing architecture, tracing integrations, investigating failures, identifying the root cause, and turning disconnected components into a reliable system.
 
-My favorite kind of challenge is: *“We already have systems, data, and infrastructure — but they are not working together. We need someone who can understand the whole environment and make it work.”*
+My favorite kind of challenge is: “We already have systems, data, and infrastructure — but they are not working together. We need someone who can understand the whole environment and make it work.”
 
 For me, technology is not only about writing code. It is about understanding the complete environment, making good architectural decisions, solving real operational problems, and continuously improving the solution.
 
