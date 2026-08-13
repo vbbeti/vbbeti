@@ -1,33 +1,37 @@
- Hi, I'm Vinicius Betiol 
- 
- AI Automation & Systems Integration Engineer
+# Hi, I'm Vinicius Betiol 🚀
 
-Python • APIs • Artificial Intelligence • Cloud • IT Infrastructure
+### AI Automation & Systems Integration Engineer
+
+**Python • APIs • Artificial Intelligence • Cloud • IT Infrastructure**
 
 I am passionate about understanding how technologies connect and using them to solve real business problems.
 
-My work combines software development, systems integration, artificial intelligence, cloud infrastructure, networking, and IT operations**. I enjoy working across the entire solution lifecycle — from understanding a business challenge and designing the architecture to developing, deploying, monitoring, and troubleshooting the final system.
+My work combines **software development, systems integration, artificial intelligence, cloud infrastructure, networking, and IT operations**. I enjoy working across the entire solution lifecycle — from understanding a business challenge and designing the architecture to developing, deploying, monitoring, and troubleshooting the final system.
 
 What motivates me most is transforming fragmented processes, disconnected systems, and recurring operational problems into reliable, automated, and scalable solutions.
 
 `Business Problem` → `Process Mapping` → `Architecture` → `Backend & APIs` → `Database` → `Automation & AI` → `Infrastructure` → `Deployment` → `Monitoring` → `Continuous Improvement`
 
-  What Drives Me
+---
 
-I enjoy working at the intersection of software, infrastructure, automation, and business operations.
+## 🎯 What Drives Me
+
+I enjoy working at the intersection of **software, infrastructure, automation, and business operations**.
 
 I am especially motivated by challenges where the solution is not immediately obvious: understanding an existing architecture, tracing integrations, investigating failures, identifying the root cause, and turning disconnected components into a reliable system.
 
-My favorite kind of challenge is: “We already have systems, data, and infrastructure — but they are not working together. We need someone who can understand the whole environment and make it work.”
+My favorite kind of challenge is:
+
+> *“We already have systems, data, and infrastructure — but they are not working together. We need someone who can understand the whole environment and make it work.”*
 
 For me, technology is not only about writing code. It is about understanding the complete environment, making good architectural decisions, solving real operational problems, and continuously improving the solution.
 
-Let's Connect
+---
 
-I'm open to opportunities involving backend development, AI automation, systems integration, cloud infrastructure, and technical operations.
+## 📫 Let's Connect
 
+I'm open to opportunities involving **backend development, AI automation, systems integration, cloud infrastructure, and technical operations**.
 
-- 📧 Email: [vbbetiol@gmail.com](mailto:vbbetiol@gmail.com)
-- 📍 Location: São Paulo, Brazil — available for remote opportunities
-
-
+- 💼 **LinkedIn:** [Vinicius Betiol](https://www.linkedin.com/in/vinicius-betiol-980b56136)
+- 📧 **Email:** [vbbetiol@gmail.com](mailto:vbbetiol@gmail.com)
+- 📍 **Location:** São Paulo, Brazil — available for remote opportunities
