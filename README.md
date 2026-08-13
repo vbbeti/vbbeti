@@ -22,6 +22,12 @@ My favorite kind of challenge is: “We already have systems, data, and infrastr
 
 For me, technology is not only about writing code. It is about understanding the complete environment, making good architectural decisions, solving real operational problems, and continuously improving the solution.
 
+Let's Connect
+
+I'm open to opportunities involving backend development, AI automation, systems integration, cloud infrastructure, and technical operations.
 
 
-- 📧 Email: [vbbetiol@gmail.com]
+- 📧 Email: [vbbetiol@gmail.com](mailto:vbbetiol@gmail.com)
+- 📍 Location: São Paulo, Brazil — available for remote opportunities
+
+
